@@ -1,6 +1,6 @@
 # LDA for cellphone marketing prediction
 
-Text data collected from [Gsmarena]((http://www.gsmarena.com) 
+Text data collected from [Gsmarena](http://www.gsmarena.com) 
 
 Optimization: Collapsed Gibbs Sampling
 
